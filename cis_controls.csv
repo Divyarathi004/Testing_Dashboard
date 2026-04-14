@@ -1,0 +1,7 @@
+control_id,title,category,keywords,dependency_tags
+CIS-1.1,Inventory and Control of Enterprise Assets,Asset Management,"asset,inventory,unauthorized device,unknown host,rogue device",asset visibility
+CIS-4.1,Secure Configuration of Enterprise Assets,Secure Configuration,"secure configuration,hardening,default config,misconfiguration,baseline",configuration baseline
+CIS-5.2,Use Unique Passwords,Identity and Access,"password,credential,authentication,weak password,default password",identity protection
+CIS-6.3,Disable Unused Services,Access Control,"telnet,unused service,insecure service,legacy protocol,open service",service exposure
+CIS-12.1,Network Infrastructure Management,Network Management,"ssh,telnet,vlan,network device,router,switch,segmentation",network resilience
+CIS-13.7,Network Monitoring and Defense,Monitoring,"firewall,traffic,monitoring,log,detect,alert,network monitoring",detective controls
