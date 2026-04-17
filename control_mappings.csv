@@ -1,7 +1,0 @@
-primary_control,related_control,relationship
-CIS-5.2,NIST-IA-5,Direct overlap
-CIS-6.3,NIST-CM-7,Direct overlap
-CIS-12.1,NIST-AC-17,Remote administration dependency
-CIS-12.1,NIST-SC-7,Network segmentation dependency
-CIS-4.1,NIST-CM-2,Baseline configuration alignment
-CIS-1.1,NIST-AC-2,Asset ownership dependency
