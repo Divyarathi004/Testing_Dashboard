@@ -1,0 +1,7 @@
+control_id,title,category,keywords,dependency_tags
+NIST-AC-2,Account Management,Access Control,"account,user access,privilege,provisioning,authentication",identity governance
+NIST-AC-17,Remote Access,Access Control,"ssh,telnet,remote access,vpn,administration",remote connectivity
+NIST-IA-5,Authenticator Management,Identification and Authentication,"password,credential,authentication,secret,key",credential hygiene
+NIST-CM-2,Baseline Configuration,Configuration Management,"baseline,secure configuration,hardening,standard build,misconfiguration",configuration governance
+NIST-CM-7,Least Functionality,Configuration Management,"unused service,telnet,unnecessary service,port,protocol",attack surface reduction
+NIST-SC-7,Boundary Protection,System and Communications Protection,"firewall,vlan,segmentation,network boundary,traffic filtering",network boundary
